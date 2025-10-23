@@ -1,0 +1,4 @@
+T_Backpack_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+T_Jacket_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+T_Backpack_OcclusionRoughnessMetallic.uasset filter=lfs diff=lfs merge=lfs -text
+T_Jacket_OcclusionRoughnessMetallic.uasset filter=lfs diff=lfs merge=lfs -text
